@@ -1,5 +1,5 @@
 # hello-world
 
-Just another repository
+Greetings!
 
-Greetings! Let's see how far i'll go.
+Let's see how far i'll go.
